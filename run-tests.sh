@@ -5,7 +5,7 @@ set -e
 
 echo "=== Démarrage du script de tests ==="
 
-# Nettoyage et création du dossier de résultats
+# Nettoyage et création du dossier de résultats des tests
 RESULTS_DIR="test-results"
 rm -rf "$RESULTS_DIR"
 mkdir -p "$RESULTS_DIR"
