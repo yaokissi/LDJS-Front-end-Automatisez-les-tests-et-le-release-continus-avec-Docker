@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/yaokissi/LDJS-Front-end-Automatisez-les-tests-et-le-release-continus-avec-Docker/compare/v1.0.0...v1.1.0) (2026-09-26)
+
+
+### Features
+
+* test of docker image tagging with release semantic version ([0be1dac](https://github.com/yaokissi/LDJS-Front-end-Automatisez-les-tests-et-le-release-continus-avec-Docker/commit/0be1dac8d4ecc0de6c12003ae3f852bca8d38d6c))
+
 # 1.0.0 (2026-09-18)
 
 
